@@ -2,8 +2,8 @@
 //  TangoRichNotification.h
 //  TangoRichNotification
 //
-//  Created by Raul Hahn on 12/16/16.
-//  Copyright © 2016 Tangotargetting. All rights reserved.
+//  Created by Raul Hahn on 05/04/17.
+//  Copyright © 2017 Tangotargeting. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
